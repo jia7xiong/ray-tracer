@@ -1,0 +1,17 @@
+# Compiled Object files
+*.o
+
+# Executables
+ray_tracer*
+
+*.tmp
+.sconsign.dblite
+
+tests/file.txt
+tests/file.png
+tests/output/*
+output/*
+
+.DS_Store
+
+!.gitkeep
